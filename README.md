@@ -27,6 +27,7 @@ EntryRoomプレハブを置いて
 - チェック機構を置かない場合はGimmickRoot/Succeedをオンにする
 - チェック機構を置く場合はGimmickRoot/Guardとかに置いて位置を調整する
   - よくあるクイズとか置くやつ
+  - チェックが成功したらGimmickRoot/OnSucceedをActiveにする処理をしてください
 
 ## License
 
