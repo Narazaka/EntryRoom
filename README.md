@@ -1,6 +1,6 @@
 # Entry Room
 
-desc
+入場時に個別の部屋にいったんスポーンさせるシステム
 
 ## Install
 
@@ -16,7 +16,17 @@ https://github.com/Narazaka/EntryRoom/releases/latest から `net.narazaka.vrcha
 
 ## Usage
 
-TODO
+Packages/Fade Teleport/FadeTeleporterプレハブをどこかに1つだけ置いてください。
+
+EntryRoomプレハブを置いて
+
+- 「Regenerate Rooms」と「Setup」をこの順番で押す
+- FadeTeleportToオブジェクトに
+  - FadeTeleporterプレハブを指定する
+  - メインエリアへのジャンプ先を指定する
+- チェック機構を置かない場合はGimmickRoot/Succeedをオンにする
+- チェック機構を置く場合はGimmickRoot/Guardとかに置いて位置を調整する
+  - よくあるクイズとか置くやつ
 
 ## License
 

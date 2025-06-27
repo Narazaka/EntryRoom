@@ -1,0 +1,24 @@
+{
+    "name": "Narazaka.VRChat.EntryRoom.Helper.Editor",
+    "rootNamespace": "",
+    "references": [
+        "VRC.SDKBase",
+        "VRC.Udon",
+        "VRC.Udon.Serialization.OdinSerializer",
+        "UdonSharp.Runtime",
+        "Narazaka.VRChat.FadeTeleport",
+        "Narazaka.VRChat.EntryRoom",
+        "Narazaka.VRChat.EntryRoom.Helper"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

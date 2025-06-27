@@ -2,7 +2,7 @@
   "name": "net.narazaka.vrchat.entry-room",
   "version": "1.0.0",
   "displayName": "Entry Room",
-  "description": "Entry Room",
+  "description": "入場時に個別の部屋にいったんスポーンさせるシステム",
   "author": {
     "name": "Narazaka",
     "url": "https://github.com/Narazaka"
@@ -12,7 +12,8 @@
   "url" : "https://github.com/Narazaka/EntryRoom.git",
   "unity": "2022.3",
   "vpmDependencies": {
-    "com.vrchat.avatars": ">=3.7.5",
-    "com.vrchat.worlds": ">=3.7.5"
+    "com.vrchat.worlds": ">=3.7.5",
+    "net.narazaka.vrchat.fade-teleport": ">=0.1.1 <2.0.0",
+    "net.narazaka.unity.area-partition": ">=1.1.1 <2.0.0"
   }
 }
