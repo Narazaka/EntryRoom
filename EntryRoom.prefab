@@ -252,7 +252,7 @@ MonoBehaviour:
   - RoomPrefab: {fileID: 5812023314306433364, guid: e692b464301377545a05b229b56d624f,
       type: 3}
     RoomCount: 16
-  Bounds: {x: 50, y: 50, z: 50}
+  Bounds: {x: 100, y: 100, z: 100}
   BoundWallThickness: 2
   RoomColCount: 4
   Centering: 0
