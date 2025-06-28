@@ -29,6 +29,12 @@ EntryRoomプレハブを置いて
   - よくあるクイズとか置くやつ
   - チェックが成功したらGimmickRoot/OnSucceedをActiveにする処理をしてください
 
+### 注意: Occlusion Cullingの暴発
+
+原点から遠い場所にEntryRoomがある場合（デフォルト）、Occlusion Cullingの精度が悪くなり、変なカリングが為されてしまうことがあります。
+
+この場合位置を原点に寄せるか、Area Partition GeneratorのBoundsを大きく調整してからもう一回「Regenerate Rooms」と「Setup」をし、その状態でOcclusion Cullingをベイクするなどで改善することがあります。
+
 ## License
 
 [Zlib License](LICENSE.txt)
