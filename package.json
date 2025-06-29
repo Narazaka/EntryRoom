@@ -1,6 +1,6 @@
 {
   "name": "net.narazaka.vrchat.entry-room",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "displayName": "Entry Room",
   "description": "入場時に個別の部屋にいったんスポーンさせるシステム",
   "author": {
