@@ -6,7 +6,6 @@
         "VRC.Udon",
         "VRC.Udon.Serialization.OdinSerializer",
         "UdonSharp.Runtime",
-        "Narazaka.VRChat.FadeTeleport",
         "Narazaka.VRChat.EntryRoom",
         "Narazaka.VRChat.EntryRoom.Helper"
     ],

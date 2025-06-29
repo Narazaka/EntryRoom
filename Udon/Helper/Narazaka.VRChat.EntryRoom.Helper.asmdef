@@ -5,9 +5,7 @@
         "VRC.SDKBase",
         "VRC.Udon",
         "VRC.Udon.Serialization.OdinSerializer",
-        "UdonSharp.Runtime",
-        "FukuroUdon",
-        "Narazaka.VRChat.FadeTeleport"
+        "UdonSharp.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
