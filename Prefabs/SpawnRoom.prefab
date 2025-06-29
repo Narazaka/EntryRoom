@@ -340,7 +340,7 @@ Transform:
   m_GameObject: {fileID: 6952273093832069545}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.2000122, z: -0.5}
+  m_LocalPosition: {x: 0, y: 0.1, z: -0.5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -374,8 +374,8 @@ Transform:
   m_GameObject: {fileID: 7492217212086621719}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.2000122, z: 0}
-  m_LocalScale: {x: 2.4, y: 2.4, z: 2.4}
+  m_LocalPosition: {x: 0, y: 2.5, z: 0}
+  m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1961402718153865237}
@@ -466,17 +466,17 @@ PrefabInstance:
     - target: {fileID: 9184031625272435909, guid: b5488937f3d733047bff085f862ba89e,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 2.4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9184031625272435909, guid: b5488937f3d733047bff085f862ba89e,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 2.3999996
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9184031625272435909, guid: b5488937f3d733047bff085f862ba89e,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 2.3999996
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 9184031625272435909, guid: b5488937f3d733047bff085f862ba89e,
         type: 3}
@@ -486,7 +486,7 @@ PrefabInstance:
     - target: {fileID: 9184031625272435909, guid: b5488937f3d733047bff085f862ba89e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.2000122
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 9184031625272435909, guid: b5488937f3d733047bff085f862ba89e,
         type: 3}
@@ -558,7 +558,7 @@ PrefabInstance:
     - target: {fileID: 1916507467800224713, guid: 8bb5cfd86fab1434aa37dfb575230687,
         type: 3}
       propertyPath: m_Name
-      value: SpawnRoom Variant
+      value: SpawnRoom
       objectReference: {fileID: 0}
     - target: {fileID: 2171352915764213017, guid: 8bb5cfd86fab1434aa37dfb575230687,
         type: 3}
